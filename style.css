@@ -1,0 +1,125 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-color: rgb(154, 163, 162);
+    text-align: center;
+} 
+
+footer {
+    background-color: rgb(154, 163, 162);
+}
+
+h1 {
+    font-family: 'Mulish', sans-serif;
+}
+
+h2 {
+    font-family: 'Mulish', sans-serif;
+}
+
+p{
+    font-family: 'Mulish', sans-serif;
+}
+
+.separateur {
+    border: solid rgb(12, 180, 87) 5px;
+    background-color:rgb(12, 180, 87);
+    margin-left: 700px;
+    border-radius: 5px;
+    width: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif;
+}
+  
+li a:hover {
+    background-color: rgb(12, 180, 87);
+}
+
+.images {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.photo {
+    max-width: 150px;
+    max-height: 150px;
+    margin-left: 680px;
+    border-radius: 90px;
+}
+
+.imgformations {
+    max-width: 500px;
+    max-height: 250px;
+    border-radius: 10px;
+}
+
+.informations {
+    max-width: 350px;
+    max-height: 300px;
+    display: inline-block;
+    flex-direction: column;
+    border: solid 3px #e0e4ec;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.education {
+    max-width: 350px;
+    max-height: 300px;
+    display: inline-block;
+    flex-direction: column;
+    border: solid 3px #e0e4ec;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.logiciels{
+    max-width: 350px;
+    max-height: 300px;
+    display: inline-block;
+    flex-direction: column;
+    border: solid 3px #e0e4ec;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.langages {
+    max-width: 350px;
+    max-height: 300px;
+    display: inline-block;
+    flex-direction: column;
+    border: solid 3px #e0e4ec;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.button {
+    background-color: rgb(12, 180, 87);
+    border: none;
+    font-size: 16px;
+    font-family: 'Mulish', sans-serif;
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+}
