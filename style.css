@@ -123,3 +123,8 @@ li a:hover {
     width: 120px;
     height: 40px;
 }
+
+.formulaire {
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+}
