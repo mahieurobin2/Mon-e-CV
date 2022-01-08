@@ -128,3 +128,17 @@ li a:hover {
     text-align: center;
     font-family: 'Mulish', sans-serif;
 }
+
+.formationannee {
+    max-width: 350px;
+    max-height: 300px;
+    display: inline-block;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.formannee {
+    max-width: 350px;
+    max-height: 300px;
+    border-radius: 10px;
+}
