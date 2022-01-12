@@ -18,7 +18,7 @@
     <h1>Contact</h1>
     <ul>
         <li><a href="index.html">Accueil</a></li>
-        <li><a href="formations.html">Formations</a></li>
+        <li><a href="formationsindex.html">Formations</a></li>
         <li><a href="contact.php">Contact</a></li>
         <li><a href="projetsweb.html">Projets developpement</a></li>
         <li><a href="#">Mon CV en format pdf</a></li>
