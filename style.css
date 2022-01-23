@@ -133,6 +133,16 @@ li a:hover {
     padding: 5px;
 }
 
+.annee {
+    max-width: 350px;
+    max-height: 300px;
+    display: inline-block;
+    flex-direction: column;
+    border: solid 3px #e0e4ec;
+    border-radius: 10px;
+    padding: 5px;
+}
+
 .button {
     background-color: rgb(12, 180, 87);
     border: none;
@@ -162,12 +172,10 @@ li a:hover {
     border-radius: 10px;
 }
 
-
 .cartes{
     display: flex;
     align-items: center;
     justify-content:space-around;
-    
 }
 
 .maphoto{
