@@ -83,6 +83,12 @@ li a:hover {
     border-radius: 10px;
 }
 
+.imgprojets {
+    max-width: 500px;
+    max-height: 250px;
+    border-radius: 10px;
+}
+
 .informations {
     max-width: 350px;
     max-height: 300px;
